@@ -2,6 +2,11 @@
 
 A web-based calculator application featuring both **Basic** and **Scientific** calculators. Perfect for students, professionals, and anyone who needs quick calculations on the go.
 
+## 🌐 Live Demo
+
+Check out the live demo here:
+- https://basic-calculator-example.netlify.app/
+
 ---
 
 ## 📋 Features
@@ -43,6 +48,13 @@ OIBSIP-Level2-Task1/
 3. **Choose your calculator:**
    - Click "Basic Calculator" for simple calculations
    - Click "Scientific Calculator" for advanced math functions
+
+---
+
+## 🌐 Live Demo
+
+Check out the live demo here:
+- https://basic-calculator-example.netlify.app/
 
 ---
 
